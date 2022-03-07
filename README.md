@@ -4,7 +4,7 @@
 - 🔭 Hoje trabalho com back-end em Python
 - 🌱 Estou aprendendo atualmente Machine Learning e Deep Learning
 - 📫 Contrate-me no e-mail: lucasjlgc@outlook.com
-- 😄 Pronouns: ele/dele
+
 ##
 
 <div align="center">
