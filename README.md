@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com back-end em Python e front-end para desktop com tkinter
-- 🌱 Estou aprendendo atualmente manipulação de imagens
+- 🌱 Estou aprendendo pipelines para bioinformática
 - 📫 Contrate-me no e-mail: lucasjlgc@outlook.com
 
 ##
