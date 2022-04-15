@@ -1,8 +1,8 @@
 ### Olá, eu sou o Lucas Gama 👋
 
 
-- 🔭 Hoje trabalho com back-end em Python e front-end para desktop com tkinter
-- 🌱 Estou aprendendo pipelines para bioinformática
+- 🔭 Hoje trabalho com back-end e criações de GUI em Python.
+- 🌱 Estou cursando MBA em visão computacional.
 - 📫 Contrate-me no e-mail: lucasjlgc@outlook.com
 
 ##
