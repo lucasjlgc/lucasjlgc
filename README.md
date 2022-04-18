@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com back-end e criações de GUI em Python.
-- 🌱 Estou cursando MBA em visão computacional.
+- 🌱 Estou cursando MBA em visão computacional no IGTI.
 - 📫 Contrate-me no e-mail: lucasjlgc@outlook.com
 
 ##
