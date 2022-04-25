@@ -15,11 +15,13 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Lucas-R" height="30" width="43" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img align="center" alt="Lucas-MYSQL" height="30" width="40" src="https://camo.githubusercontent.com/8462c30b67acfd5571bcfb8094f5be2d1b7ac9e0cdbffbf4d146cc04b94b5d1d/68747470733a2f2f7777772e6d7973716c2e636f6d2f636f6d6d6f6e2f6c6f676f732f6c6f676f2d6d7973716c2d313730783131352e706e67">  
+  <img align="center" alt="Lucas-SQLITE" height="30" width="60" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://camo.githubusercontent.com/8462c30b67acfd5571bcfb8094f5be2d1b7ac9e0cdbffbf4d146cc04b94b5d1d/68747470733a2f2f7777772e6d7973716c2e636f6d2f636f6d6d6f6e2f6c6f676f732f6c6f676f2d6d7973716c2d313730783131352e706e67">  
-  <img align="center" alt="Lucas-CSS" height="30" width="45" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img align="center" alt="Lucas-JS" height="30" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  
 
 </div>
   
