@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com back-end e criações de GUI em Python.
-- 🌱 Estou cursando pós graduação no IGTI.
+- 🌱 Estou cursando MBA em Machine Learning no IGTI.
 - 📫 Contrate-me no e-mail: lucasjlgc@outlook.com
 - 📽️ Me siga no youtube: https://www.youtube.com/channel/UCS-KQ2c1vddKoedawLw7o3Q 
 
