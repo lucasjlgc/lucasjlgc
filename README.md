@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho com análise de dados em Python, R e Bash.
 - :robot: Iniciando em Computação visual. 
-- 📫 Contrate-me no e-mail: lucasjlgc@outlook.com
+- 📫 Contate no e-mail: lucasjlgc@outlook.com
 - 📽️ Me siga no youtube: https://www.youtube.com/channel/UCS-KQ2c1vddKoedawLw7o3Q 
 
 ##
