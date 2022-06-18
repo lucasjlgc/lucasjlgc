@@ -1,8 +1,8 @@
 ### Olá, eu sou o Lucas Gama 👋
 
 
-- 🔭 Hoje trabalho com análise de dados em Python, R e Bash.
-- :robot: Iniciando em Computação visual. 
+- 🔭 Domino Python, R e Bash.
+- :robot: Computação visual e Machine Learning. 
 - 📫 Contate no e-mail: lucasjlgc@outlook.com
 - 📽️ Me siga no youtube: https://www.youtube.com/channel/UCS-KQ2c1vddKoedawLw7o3Q 
 
