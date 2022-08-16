@@ -1,8 +1,8 @@
 ### Olá, eu sou o Lucas Gama 👋
 
 
-- 🔭 Domino Python, R e Bash.
-- :robot: Computação visual e Machine Learning. 
+- 🔭 Linguagens: Python, R e Bash.
+- :robot: Área: Machine Learning and computer vision. 
 - 📫 Contate no e-mail: lucasjlgc@outlook.com
 - 📽️ Me siga no youtube: https://www.youtube.com/channel/UCS-KQ2c1vddKoedawLw7o3Q 
 
