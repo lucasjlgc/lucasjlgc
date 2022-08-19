@@ -3,7 +3,7 @@
 
 - 🔭 Linguagens: Python, R e Bash.
 - :robot: Área: Machine Learning and computer vision. 
-- 📫 Contate no e-mail: lucasjlgc@outlook.com
+- 📫 Graduando em ciência da computação. 
 - 📽️ Me siga no youtube: https://www.youtube.com/channel/UCS-KQ2c1vddKoedawLw7o3Q 
 
 ##
@@ -11,9 +11,10 @@
 <div align="center">
   <a href="https://github.com/lucasjlgc">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasjlgc&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjlgc&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjlgc&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
-  <div style="display: inline_block"><br>
+
+<div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-R" height="30" width="43" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img align="center" alt="Lucas-MYSQL" height="30" width="40" src="https://camo.githubusercontent.com/8462c30b67acfd5571bcfb8094f5be2d1b7ac9e0cdbffbf4d146cc04b94b5d1d/68747470733a2f2f7777772e6d7973716c2e636f6d2f636f6d6d6f6e2f6c6f676f732f6c6f676f2d6d7973716c2d313730783131352e706e67">  
