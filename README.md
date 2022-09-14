@@ -2,7 +2,7 @@
 
 
 - 🔭 Linguagens: Python, R e Bash.
-- :robot: Área: Machine Learning and computer vision. 
+- :robot: Machine Learning, DeepLearning and computer vision. 
 - 📫 Graduando em ciência da computação. 
 - 📽️ Me siga no youtube: https://www.youtube.com/channel/UCS-KQ2c1vddKoedawLw7o3Q 
 
