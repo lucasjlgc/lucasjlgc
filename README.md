@@ -11,8 +11,7 @@
 <div align="center">
   <a href="https://github.com/lucasjlgc">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasjlgc&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://camo.githubusercontent.com/a63825a61c7d299510ed5efcca57557cde96d8d6b31e2ed758d487a60fee841c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6272756e6f47616d65726f266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d6461726b" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjlgc;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width: 100%;">
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjlgc&layout=compact&langs_count=7&theme=chartreuse-dark"/> </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
