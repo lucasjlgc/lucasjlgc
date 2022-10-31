@@ -1,10 +1,10 @@
 ### Olá, eu sou o Lucas Gama 👋
 
 
-- 🔭 Linguagens: Python, R e Bash.
-- :robot: Machine Learning, DeepLearning and Computer vision. 
-- 📫 Graduando em ciência da computação. 
-- 📽️ Sempre me aperfeiçoando profissionalmente.
+- 🔭 Languages: Python, R and Bash.
+- :robot: Machine Learning, DeepLearning and Computer vision.
+- 📫 Graduating in computer science.
+- 📽️ Always improving myself professionally.
 
 ##
 
