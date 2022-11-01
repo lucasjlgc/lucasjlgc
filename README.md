@@ -1,4 +1,4 @@
-### Olá, eu sou o Lucas Gama 👋
+### Hi, I'm Lucas 👋
 
 
 - 🔭 Languages: Python, R and Bash.
