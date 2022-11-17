@@ -1,7 +1,7 @@
 ### Hi, I'm Lucas 👋
 
 
-- 🔭 Languages: Python, R and Bash.
+- 🔭 Languages: Python, R, Bash e Dart
 - :robot: Machine Learning, DeepLearning and Computer vision.
 - 📫 Graduating in computer science.
 - 📽️ Always improving myself professionally.
