@@ -2,7 +2,7 @@
 
 
 - 🔭 Languages: Python, R, Bash e Dart
-- :robot: Computer vision | Back-end Django
+- :robot: Computer vision | Back-end Django |GUI Tkinter
 - 📫 Graduating in computer science.
 - 📽️ Always improving myself professionally.
 
