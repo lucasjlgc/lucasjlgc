@@ -3,7 +3,7 @@
 I’m a Software Engineer. Currently I'm working as a Web and GUI developer at [**IEC**](https://www.gov.br/iec/pt-br). 🚀
 
 #### My current tools   
-🌎 Front-end Web with js, HTML, CSS  
+🌎 Front-end Web with JavaScript, HTML, CSS  
 📡 Back-end with Django  
 🛠️ Bash Script,R, Python   
 🧰 And more...  
