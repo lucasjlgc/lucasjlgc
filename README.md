@@ -11,7 +11,7 @@ I’m a Software Engineer. Currently I'm working as a Web and GUI developer at [
 
 #### 💬 Find me elsewhere
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/lucasjllgc/](https://www.linkedin.com/in/lucasjlgc/))]("https://www.linkedin.com/in/lucasjlgc/") 
+ 
 [![Gmail Badge](https://img.shields.io/badge/-lucasjlgc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasjlgc@gmail.com)](mailto:lucasjlgc@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/rodrigo-goncalves-santana/)](https://instagram.com/lucas10112)
   
