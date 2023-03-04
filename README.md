@@ -4,8 +4,8 @@ I’m a Software Engineer. Currently I'm working as a Web and GUI developer at [
 
 #### My current tools   
 🌎 Front-end Web with JavaScript, HTML, CSS  
-📡 Back-end with Django  
-🛠️ Bash Script,R, Python   
+📡 Back-end with NodeJS  
+🛠️ Python,R ,Bash Script  
 🧰 And more...  
 
 
