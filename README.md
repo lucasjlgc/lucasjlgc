@@ -1,6 +1,6 @@
 ### Hi, I'm Lucas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I’m a Software Engineer. Currently I'm working as a Web and GUI developer at [**IEC**](https://www.gov.br/iec/pt-br). 🚀
+I’m a Software Engineer.
 
 #### My current tools   
 🌎 FullStack developer! React e NodeJS | SQL | Express
