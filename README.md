@@ -3,8 +3,10 @@
 I’m a Software Engineer.
 
 #### My current tools   
-🌎 FullStack developer! React e NodeJS | SQL | Express
+🌎 FullStack developer! React e NodeJS | SQL | Express.
+
 📡 Back-end with NodeJS  
+
 🛠️ Python,R ,Bash Script  
 🧰 And more...  
 
