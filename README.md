@@ -3,7 +3,7 @@
 I’m a Software Engineer. Currently I'm working as a Web and GUI developer at [**IEC**](https://www.gov.br/iec/pt-br). 🚀
 
 #### My current tools   
-🌎 Front-end Web with JavaScript, HTML, CSS  
+🌎 FullStack developer! React e NodeJS | SQL | Express
 📡 Back-end with NodeJS  
 🛠️ Python,R ,Bash Script  
 🧰 And more...  
