@@ -11,7 +11,7 @@ I’m a Software Engineer.
 🧰 And more...  
 
 
-#### 💬 Find me elsewhere
+#### 💬 Find me
 
  
 [![Gmail Badge](https://img.shields.io/badge/-lucasjlgc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasjlgc@gmail.com)](mailto:lucasjlgc@gmail.com)
