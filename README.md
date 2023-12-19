@@ -3,7 +3,7 @@
 I’m a Software Engineer.
 
 #### My current tools   
-🌎 FullStack developer! React e NodeJS | SQL | Express| MongoDB | View Engine (ejs e hbs)| Firebase
+🌎 FullStack developer! ReactJS e React Native| NodeJS | MySQL | Express| MongoDB | Firebase
 
 📡 Back-end with NodeJS  
 
