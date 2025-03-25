@@ -3,9 +3,9 @@
 I’m a Software Engineer.
 
 #### My current tools   
-🌎 FullStack developer! ReactJS e React Native| NodeJS | MySQL | Express| MongoDB | Firebase
+🌎 FullStack developer!Django| NodeJS | MySQL | Express| MongoDB
 
-📡 Back-end with NodeJS  
+📡 Back-end with Django  
 
 🛠️ Python,R ,Bash Script  
 
